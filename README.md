@@ -1,1 +1,1 @@
-# gp-study
+# go-study
